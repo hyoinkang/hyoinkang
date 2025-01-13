@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyoinkang)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/hyoinkang?pet-id=1" width="1000" height="120"/>
+</a>
