@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyoinkang" width="500"/>
   <img src="https://render.gitanimals.org/lines/hyoinkang?pet-id=1" width="500" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hyoinkang" width="500"/>
 </a>
