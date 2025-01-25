@@ -12,25 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Hi there 👋
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/hyoinkang"/>
 </a>
-</br> 안녕하세요, 주도적으로 배워나가는 개발자 강효인입니다🌱</br>
 
-## Tech Stack 🚀
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js&theme=light" />
-</a></br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,aws,spring,react,fastapi&theme=light" />
-</a></br>
-
-## Tools 🛠
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=idea,vscode,github,githubactions,docker,discord,notion,figma,postman&theme=light" />
-</a></br>
+## Hi there 👋
+안녕하세요, 주도적으로 배워나가는 개발자 강효인입니다🌱</br>
 
 ## Contact 📫
 <a href="mailto:hyoin1704@gmail.com">
@@ -42,3 +29,13 @@ Here are some ideas to get you started:
 
 ## Stats 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyoinkang&show_icons=true)
+
+## Tech Stack 🚀
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,spring,fastapi,react,mysql,aws&theme=light" />
+</a></br>
+
+## Tools 🛠
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=idea,vscode,github,githubactions,docker,discord,notion,figma,postman&theme=light" />
+</a></br>
