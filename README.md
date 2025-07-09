@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </a>
 
 ## Hi there 👋
-안녕하세요, 주도적으로 배워나가는 개발자 강효인입니다🌱</br>
+안녕하세요, 함께 성장하고 발전하고 싶은 개발자 강효인입니다🌱</br>
 
 ## Contact 📫
 <a href="mailto:hyoin1704@gmail.com">
@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 ## Tech Stack 🚀
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,spring,fastapi,react,mysql,aws&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,spring,express,react,mysql,aws&theme=light" />
 </a></br>
 
 ## Tools 🛠
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=idea,vscode,github,githubactions,docker,discord,notion,figma,postman&theme=light" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode,github,githubactions,docker,discord,notion,figma&theme=light" />
 </a></br>
