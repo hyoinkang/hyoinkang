@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## Tech Stack 🚀
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,spring,express,react,mysql,aws&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,spring,express,react,mysql,aws&theme=light" />
 </a></br>
 
 ## Tools 🛠
