@@ -17,22 +17,19 @@ Here are some ideas to get you started:
 </a>
 
 ## Hi there 👋
-안녕하세요, 함께 성장하고 발전하고 싶은 개발자 강효인입니다🌱</br>
+안녕하세요, **문제를 해결하는 방법을 고민하고 저만의 답을 찾아가는 과정**에서 즐거움을 느끼는 개발자 **강효인**입니다 🌱</br>
 
-## Contact 📫
-<a href="mailto:hyoin1704@gmail.com">
-  <img src="https://img.shields.io/badge/Google%20Mail-EA4335?style=flat&logo=google&logoColor=white" />
-</a></br>
-<a href="mailto:khyo1203@naver.com">
-  <img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat&logo=naver&logoColor=white" />
-</a></br>
+### 💡 About Me
+- ⚙️ 서비스의 **규모와 요구사항에 맞는 기술 선택과 설계**에 관심이 많습니다.  
+- 🚀 배울수록 개발이 더 **즐거워지고**, 그 즐거움이 저를 더 **성장**하게 만듭니다.  
+- ✨ 최근 관심사는 **클린 코드**입니다.
 
 ## Stats 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyoinkang&show_icons=true)
 
 ## Tech Stack 🚀
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,spring,express,react,mysql,aws&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,spring,nestjs,mysql,aws&theme=light" />
 </a></br>
 
 ## Tools 🛠
