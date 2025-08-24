@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 안녕하세요, 문제를 해결하는 방법을 고민하고 저만의 답을 찾아가는 과정에서 즐거움을 느끼는 개발자 강효인입니다 🌱</br>
 
 ### 💡 About Me
-- ⚙️ 서비스의 **규모와 요구사항에 맞는 기술 선택과 설계**에 관심이 많습니다.  
-- 🚀 배울수록 개발이 더 **즐거워지고**, 그 즐거움이 저를 더 **성장**하게 만듭니다.  
-- ✨ 최근 관심사는 **클린 코드**입니다.
+- 🚀 배울수록 개발이 더 즐거워지고, 그 즐거움이 저를 더 성장하게 만듭니다.  
+- ⚙️ 서비스의 규모와 요구사항에 맞는 기술 선택과 설계, 그리고 더 나은 구조화에 관심이 많습니다.  
 
 ## Stats 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyoinkang&show_icons=true)
