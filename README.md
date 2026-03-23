@@ -28,10 +28,5 @@ Here are some ideas to get you started:
 
 ## Tech Stack 🚀
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,spring,nestjs,mysql,aws&theme=light" />
-</a></br>
-
-## Tools 🛠
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=idea,vscode,github,githubactions,docker,discord,notion,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,spring,nestjs,mysql,postgresql,aws&theme=light" />
 </a></br>
